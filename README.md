@@ -8,7 +8,7 @@ Designed for 256-color terminal emulaters, and also works well on gui version.
 
 ## Screenshot
 
-![](https://imgur.com/PDak8xR)
+![](https://files.catbox.moe/23ppbh.png)
 
 ## Installation
 
